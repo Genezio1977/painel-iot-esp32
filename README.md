@@ -4,9 +4,7 @@ Painel web em **React + TypeScript** para monitorar, em tempo real, os sensores 
 
 O projeto une as duas pontas que gosto de desenvolver: o firmware do microcontrolador e a interface que o usuário vê e usa.
 
-🔗 **Demonstração online:** `https://genezio1977.github.io/painel-iot-esp32/` (modo simulado)
-
-![Captura de tela do painel](docs/captura.png)
+🔗 **Demonstração online:** https://genezio1977.github.io/painel-iot-esp32/ (modo simulado)
 
 ## Funcionalidades
 
